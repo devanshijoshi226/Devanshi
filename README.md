@@ -1,6 +1,36 @@
-# 💫 About Me:
-# 👋 Hi, I'm Devanshi Joshi<br><br>I’m a Computer Science student with a strong interest in **web development, content creation, and personal branding**.  <br>I enjoy building things that combine **logic, creativity, and real-world impact**.<br><br>---<br><br>About Me<br>- Currently working in **Social Media Management & Brand Management**<br>- Passionate about **content strategy, digital growth, and branding**<br>- Experienced in **team leadership, outreach, and communication**<br>- Love turning ideas into structured, meaningful projects<br><br>---<br><br> 💻 Technical Skills<br>- **Programming Languages:** C, C++<br>- **Web Development:** HTML, CSS (responsive & resume-style layouts)<br>- **Tools & Platforms:** GitHub, VS Code, Canva<br>- **Other Skills:** Content Writing, Communication, Presentation Skills<br><br>---<br><br> 🏆 Experience & Achievements<br>- 🏅 **Smart India Hackathon (SIH)** – Winner / Qualified in top teams<br>-  Created Instagram content and crossed **150K+ views within 15 days**<br>- 👩‍💼 **Team Lead (Outreach Team)** at Incubation Centre for 1 year<br>- 🤝 Worked with **Muskurahat Foundation** on crowdfunding initiatives<br>- ✍️ Content Writer at **YCOTES** and launched my **own course on content creation**<br>- 🎤 Participated in **IIT Roorkee E-Summit**<br><br>---<br><br>📂 Projects<br>- **Instagram Growth Campaign** – Achieved 100K+ views<br>- **Personal Portfolio Website** – Built using HTML & CSS<br>- **Content Creation Course** – Designed and launched independently<br><br>---<br><br>🌱 Currently Learning<br>- Advanced web development concepts<br>- Personal branding strategies<br>- Improving problem-solving using C/C++<br><br>---<br><br> 📫 Connect With Me<br>- **Email:** devanshij226@gmail.com  <br>- **LinkedIn:** Devanshi Joshi  <br><br>⭐ Feel free to explore my repositories and connect with me!<br>
+**Hi, I'm Devanshi Joshi**
 
+I’m a Computer Science student with a strong interest in web development,
+content creation, and personal branding.
+
+---
+
+**About Me**
+- Currently working in Social Media Management & Brand Management
+- Passionate about content strategy, digital growth, and branding
+- Experienced in team leadership, outreach, and communication
+
+---
+
+**Technical Skills**
+- C, C++
+- HTML, CSS
+- GitHub, VS Code
+
+---
+
+**Experience & Achievements**
+- Smart India Hackathon (SIH) – Winner / Qualified
+- 150K+ Instagram views in 15 days
+- Team Lead – Outreach Team (Incubation Centre)
+- Content Writer at YCOTES & course creator
+- Crowdfunding experience with Muskurahat Foundation
+
+---
+
+**Contact**
+- Email: devanshij226@gmail.com
+- LinkedIn: Devanshi Joshi
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devanshi-joshi-66b295312) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devanshij226@gmail.com) 
